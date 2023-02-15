@@ -1,1 +1,1 @@
-new example text 2
+deprecated text
